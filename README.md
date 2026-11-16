@@ -283,6 +283,10 @@ and more.
   decentralized finance, empowering financial institutions with critical data
   for research, trading, risk, analytics, reporting, and compliance.
 
+- **[BaseFee Optimizer](https://manidots.github.io/base-fee-optimizer/)**: A lightweight,
+  real-time Base L2 gas tracker and fee savings calculator comparing live transaction
+  costs against Ethereum L1 across transfers, DEX swaps, and smart contracts.
+
 - **[Biconomy](https://www.biconomy.io/)**: Biconomy brings blockchain-agnostic,
   web2-like experiences to dApps in a non-custodial manner with our
   comprehensive software development kit which is built on top of ERC4337 and
